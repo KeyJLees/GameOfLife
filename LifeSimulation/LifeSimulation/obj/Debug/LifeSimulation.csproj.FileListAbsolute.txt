@@ -1,0 +1,10 @@
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csprojAssemblyReference.cache
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Form1.resources
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Properties.Resources.resources
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.GenerateResource.cache
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.CoreCompileInputs.cache
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.exe.config
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.exe
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.pdb
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.exe
+C:\Users\gibne\source\repos\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.pdb
